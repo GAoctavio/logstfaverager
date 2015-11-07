@@ -1,6 +1,8 @@
 # logstfaverager
 Average and Standard Deviation for logs.tf
+
 Note: you will need PySide installed, you can do it with
+
 >pip install -U PySide
 
 
