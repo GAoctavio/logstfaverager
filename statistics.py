@@ -23,7 +23,7 @@ class Window(QtGui.QWidget):
         cancelButton = QtGui.QPushButton("Cancel")
         self.textbox = QtGui.QLineEdit()
         #faster for testing stuff
-        self.textbox.setText("STEAM_0:1:24842999")
+        self.textbox.setText("Your steamid")
 
 
         hbox = QtGui.QHBoxLayout()
